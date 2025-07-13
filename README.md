@@ -2,9 +2,10 @@
 
 
 ## Baidu Netdisk
-[test dataset](https://pan.baidu.com/s/1uydu1_vEL_XB1Gfs0811Og)
+You can download the test dataset from here. [test dataset](https://pan.baidu.com/s/1uydu1_vEL_XB1Gfs0811Og)
 Password:vric
-[train dataset](https://pan.baidu.com/s/1rcGF0r1stwxesJSKRYRKgg)
+
+You can download the train dataset from here. [train dataset](https://pan.baidu.com/s/1rcGF0r1stwxesJSKRYRKgg)
 Password:uats
 
 
