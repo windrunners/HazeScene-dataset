@@ -2,8 +2,8 @@
 
 
 ## Baidu Netdisk
-You can download the test dataset from here. [test dataset](https://pan.baidu.com/s/1uydu1_vEL_XB1Gfs0811Og)
-Password: vric
+You can download the test dataset from here. [test dataset](https://pan.baidu.com/s/1ca-28_5cwyV22A6uiG0Mwg)
+Password: 4wvx
 
 You can download the train dataset from here. [train dataset](https://pan.baidu.com/s/1rcGF0r1stwxesJSKRYRKgg)
 Password: uats
