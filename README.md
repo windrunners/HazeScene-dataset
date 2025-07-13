@@ -9,6 +9,6 @@ Password:uats
 
 
 ## google driver
-[test dataset]([https://drive.google.com/file/d/1105JxyylxRaSgZNdciXDzsadwJK0LBob/view?usp=drive_link](https://drive.google.com/file/d/1VDA8Ppqw9D1uEwTHOrImcugFg9gP3t3o/view?usp=drive_link))
+[test dataset](https://drive.google.com/file/d/1VDA8Ppqw9D1uEwTHOrImcugFg9gP3t3o/view?usp=drive_link)
 [train dataset](https://drive.google.com/file/d/1SeSzdbWLcpnqEAhYmGd3nmvkC1UoWm1m/view?usp=drive_link)
 
