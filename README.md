@@ -1,4 +1,4 @@
-# train dataset and test dataset
+# test and train dataset
 
 ## Baidu Netdisk
 You can download the test dataset from here. [test dataset](https://pan.baidu.com/s/10upFjclTTmpZdBiUXHjQpA?pwd=6afc)
